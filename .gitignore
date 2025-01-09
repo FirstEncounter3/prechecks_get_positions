@@ -173,11 +173,13 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# mongoDB staff
+# mongoDB stuff
 store
 
-#custom staff
+# custom stuff
 *.bin
 *.csv
+*.gz
+*.db
 
 # End of https://www.toptal.com/developers/gitignore/api/python
